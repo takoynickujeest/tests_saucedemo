@@ -1,0 +1,4 @@
+/cypress/videos
+/cypress/support
+/cypress/fixtures
+/node_modules
